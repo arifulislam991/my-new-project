@@ -1,0 +1,25 @@
+
+    
+h2{
+    display: inline;
+}
+h2{
+    font-size: 40px;
+    margin-top: 25px;
+    
+}
+.a{
+    font-style: italic;
+    font-weight: 40%;
+    color: red;
+}
+.ab{
+    text-decoration: none;
+
+}
+body{
+    background-image: url(jjj.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
